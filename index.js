@@ -1,4 +1,4 @@
-const throttle = require("lodash.throttle")
+const throttle = require("lodash.throttle");
 
 const BUSY_TIMEOUT = 700;
 const BUSY_THROTTLE = BUSY_TIMEOUT / 2;
